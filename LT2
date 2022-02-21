@@ -1,1 +1,231 @@
 
+<!DOCTYPE html>
+
+<html>
+	<head>
+	<title> Pineapple Chicken
+</title>
+</head>
+	<body>
+	<h1 style="background-color:MediumSeaGreen;"> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp  Pineapple Chicken
+	 </h1>
+	<ul>
+		<li> <h2 style="color:Tomato;"> Recipe 3: Pineapple Chicken</h2> </li>
+	</ul>
+	<table>
+	<tr>
+	<td><img src="Pineapple Chicken.jpeg" title="Pineapple Chicken" alt="Sample of a Pineapple Chicken"/></td>
+	</tr>
+	<p style="font-size:20px;"> <u> <i> Ingredients: </u> </i> <br> 
+	1. 1 Chicken Breast <br> 
+	2. Few pineapple slices (cut into cubes) <br> 
+	3. Handfull of almonds <br> 
+	4. Soya sauce <br> 
+	5. Salt <br> 
+	6. Curry powder <br> 
+
+</body>
+</html>
+<!DOCTYPE html>
+
+<html>
+	<head>
+	<title> All of the Recipes
+</title>
+</head>
+	<body>
+	<h1 style="background-color:MediumSeaGreen;"> &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;  &nbsp;   Hi! I am Isaiah Kyle Solidum, and here are all the recipes I gathered! 
+	 </h1>
+
+	
+	<ul>
+		<li><a href="Chili Con Carne.html"> Chili Con Carne </a></li>
+		<li><a href="Omelette.html"> Omelette </a></li>
+		<li><a href="Pineapple Chicken.html"> Pineapple Chicken </a></li>
+		<li><a href="Vegetarian Rice.html"> Vegetable Rice </a></li>
+		<li><a href="Cheap Pad Thai.html"> Cheap Pad Thai </a></li>
+		<li><a href="Thai Green Curry.html"> Thai Green Curry </a></li>
+		<li><a href="Beef in Beer.html"> Beef in Beer </a></li>
+	</ul>
+	</body>
+</html>
+<!DOCTYPE html>
+
+<html>
+	<head>
+	<title> Thai Green Curry
+</title>
+</head>
+	<body>
+	<h1 style="background-color:MediumSeaGreen;"> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp  Thai Green Curry
+	 </h1>
+	<ul>
+		<li> <h2 style="color:Tomato;"> Recipe 6: Thai Green Curry </h2> </li>
+	</ul>
+	<table>
+	<tr>
+	<td><img src="Thai Green Curry.jpeg" title="Thai Green Curry" alt="Sample of a Thai Green Curry"/></td>
+	</tr>
+	<p style="font-size:20px;"> <u> <i> Ingredients: </u> </i> <br> 
+	1. 400g Rice <br> 
+	2. Thai or Green curry paste (1 jar) <br> 
+	3. 2 Skinless chicken breast (cut into chunks) <br> 
+	4. 2 Green peppers (strips) <br> 
+	5. Half a white/brown onion (finely chopped) <br> 
+	6. 1 Can of Coconut milk <br> 
+	7. Any kind of Cooking oil <br> 
+	
+</body>
+</html>
+<!DOCTYPE html>
+
+<html>
+	<head>
+	<title> Vegetarian Rice
+</title>
+</head>
+	<body>
+	<h1 style="background-color:MediumSeaGreen;"> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp  Vegetarian Rice
+	 </h1>
+	<ul>
+		<li> <h2 style="color:Tomato;"> Recipe 4: Vegetarian Rice</h2> </li>
+	</ul>
+	<table>
+	<tr>
+	<td><img src="Vegetarian Rice.jpeg" title="Vegetarian Rice" alt="Sample of a Vegetarian Rice"/></td>
+	</tr>
+	<p style="font-size:20px;"> <u> <i> Ingredients: </u> </i> <br> 
+	1. 1/2 Chopped onion <br> 
+	2. 1 Chopped garlic clove <br> 
+	3.  1 Chopped courgette <br> 
+	4. 1 Grated arrot <br> 
+	5. 1 Chopped red or yellow pepper <br> 
+	6. 75g Frozen Peas <br> 
+	7. 1/2 Tin of Chopped Tomatoes <br> 
+	8. 350 ml Vegetable Stock <br>
+	9. 150g Dried Brown Rice <br>
+	10. 1 tbsp of Dried Parsley <br>
+	11. 1 tsp of Turmeric <br>
+	12. Seasoning <br>
+</body>
+</html>
+<!DOCTYPE html>
+
+<html>
+	<head>
+	<title> Beef in Beer
+</title>
+</head>
+	<body>
+	<h1 style="background-color:MediumSeaGreen;"> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp; Beef in Beer
+	 </h1>
+	<ul>
+		<li> <h2 style="color:Tomato;"> Recipe 7: Beef in Beer </h2> </li>
+	</ul>
+	<table>
+	<tr>
+	<td><img src="Beef in Beer.jpeg" title="Beef in Beer" alt="Sample of a Beef in Beer"/></td>
+	</tr>
+	<p style="font-size:20px;"> <u> <i> Ingredients: </u> </i> <br> 
+	1. 500g Beef Pieces (stewing steak) <br> 
+	2. 500 ml of real Ale <br> 
+	3. 4 large onions <br> 
+	4. 2 fat cloves of Garlic <br> 
+	5. 1 tbsp of Plain flour <br>
+	
+</body>
+</html>
+<!DOCTYPE html>
+
+<html>
+	<head>
+	<title> Cheap Pad Thai Chicken
+</title>
+</head>
+	<body>
+	<h1 style="background-color:MediumSeaGreen;"> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp  Cheap Pad Thai Chicken
+	 </h1>
+	<ul>
+		<li> <h2 style="color:Tomato;"> Recipe 5: Cheap Pad Thai Chicken </h2> </li>
+	</ul>
+	<table>
+	<tr>
+	<td><img src="Cheap Pad Thai Chicken.jpeg" title="Cheap Pad Thai Chicken" alt="Sample of a Cheap Pad Thai Chicken"/></td>
+	</tr>
+	<p style="font-size:20px;"> <u> <i> Ingredients: </u> </i> <br> 
+	1. Noodles <br> 
+	2. 2 Chicken breasts <br> 
+	3. Salt and Pepper <br> 
+	4. 3 Medium red chilis (chopped) <br> 
+	5. 3 Spring Onions (chopped) <br> 
+	6. 2 Eggs <br> 
+	7. Corriander <br> 
+	8. 1 tbsp Lemon juice <br>
+	9. 1 tbsp Brown sugar <br>
+	10. 2 Cloves of garlic <br>
+	11. 3 tbsp of Fish sauce <br>
+</body>
+</html>
+<!DOCTYPE html>
+
+<html>
+	<head>
+	<title> Chili Con Carne 
+</title>
+</head>
+	<body>
+	<h1 style="background-color:MediumSeaGreen;"> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp  Chili Con Carne 
+	 </h1>
+	
+	<ul>
+		<li> <h2 style="color:Tomato;"> Chili Con Carne </h2> </li>
+	</ul>
+	<table>
+	<tr>
+	<td><img src="Chili Con Carne.jpeg" title="Chili Con Carne" alt="Sample of a Chili Con Carne"/></td>
+	</tr>
+	<p style="font-size:20px;"> <u> <i> Ingredients: </u> </i> <br> 
+	1. 1 red onion <br> 
+	2. 1 clove of garlic, finely chopped <br> 
+	3. 1 red pepper, roughly chopped <br> 
+	4. 1 green pepper, roughly chopped <br> 
+	5. 400g minced beef (i usually use lean) <br> 
+	6. 1 tbsp oil <br> 
+	7. 1 tin chopped tomatoes <br> 
+	8. 1 tin kidney beans, drained <br> 
+	9. 1 tbsp chill powder <br> 
+	10. 1 tbsp smoked paprika (or regular)<br> 
+	11. 1 tsp ground cumin <br> 
+	12. Salt and pepper to taste <br> 
+	13. Serve with rice, plain yoghurt and avocado <br> 
+	<br>
+
+	</body>
+</html>
+<!DOCTYPE html>
+
+<html>
+	<head>
+	<title> Omelette
+</title>
+</head>
+	<body>
+	<h1 style="background-color:MediumSeaGreen;"> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp &nbsp;&nbsp  Omelette
+	 </h1>
+	<ul>
+		<li> <h2 style="color:Tomato;"> Recipe 2: Omelette</h2> </li>
+	</ul>
+	<table>
+	<tr>
+	<td><img src="Omelette.jpeg" title="Omelette" alt="Sample of a Omelette"/></td>
+	</tr>
+	<p style="font-size:20px;"> <u> <i> Ingredients: </u> </i> <br> 
+	1. Olive Oil <br> 
+	2. Cheese Grated (optional) <br> 
+	3. 2 eggs <br> 
+	4. Potatoes <br> 
+	5. Garlic (i usually use lean) <br> 
+	6. Milk <br> 
+
+</body>
+</html>
