@@ -15,6 +15,7 @@
 	<li>
 	<a href="/LT3/index.html">LEARNING TASK 3</a>
 	</li>
+	<li><a href="/CLE1MT/index.html">Culminating Learning Evidence (Midterm)</a></li>
 </ul>
 </body>
 </html>
