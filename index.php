@@ -19,6 +19,8 @@
 	</li>
 	<li><a href="/lt4/index.html">LEARNING TASK 4</a>
 	</li>
+	<li><a href="/CLE1ET/index.html">Culminating Learning Evidence (Endterm)</a></li>
+	</li>
 </ul>
 </body>
 </html>
